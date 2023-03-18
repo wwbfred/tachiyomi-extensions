@@ -7396,10 +7396,10 @@
   {
     "name": "Tachiyomi: A Pair of 2+",
     "pkg": "eu.kanade.tachiyomi.extension.en.apairof2",
-    "apk": "tachiyomi-en.apairof2-v1.4.28.apk",
+    "apk": "tachiyomi-en.apairof2-v1.4.29.apk",
     "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7407,9 +7407,9 @@
       {
         "name": "A Pair of 2+",
         "lang": "en",
-        "id": "6293046913252281087",
+        "id": "2806238791467888054",
         "baseUrl": "https://po2scans.com",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -15259,6 +15259,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Solar and Sundry",
+    "pkg": "eu.kanade.tachiyomi.extension.en.solarandsundry",
+    "apk": "tachiyomi-en.solarandsundry-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Solar and Sundry",
+        "lang": "en",
+        "id": "7250486205199627024",
+        "baseUrl": "https://solar-and-sundry-worker.giraugh.workers.dev",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Solo Leveling",
     "pkg": "eu.kanade.tachiyomi.extension.en.sololeveling",
     "apk": "tachiyomi-en.sololeveling-v1.4.28.apk",
@@ -19944,6 +19965,27 @@
         "lang": "id",
         "id": "5486262618423256587",
         "baseUrl": "https://pojokmanga.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pornhwa18",
+    "pkg": "eu.kanade.tachiyomi.extension.id.pornhwa18",
+    "apk": "tachiyomi-id.pornhwa18-v1.4.28.apk",
+    "lang": "id",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pornhwa18",
+        "lang": "id",
+        "id": "8483137484881504884",
+        "baseUrl": "https://pornhwa18.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26939,7 +26981,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }

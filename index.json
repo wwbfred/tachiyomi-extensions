@@ -20972,7 +20972,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.to",
+        "baseUrl": "https://mangaraw.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -22593,27 +22593,6 @@
         "lang": "pt-BR",
         "id": "7200398491235565318",
         "baseUrl": "http://limascans.xyz/v2",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manga Livre",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.29.apk",
-    "lang": "pt-BR",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Livre",
-        "lang": "pt-BR",
-        "id": "628096467632051290",
-        "baseUrl": "https://mangalivre.top",
         "versionId": 1,
         "hasCloudflare": 1
       }
